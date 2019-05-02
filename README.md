@@ -2,7 +2,7 @@
 
 Simple java project demos how to build a war file to be deployed on a Tomcat server.
 
-## Build
+## BUILD
 
 The build script uses `mvn package` to produce a demo.war file and then bundles it with a Docker image that runs Tomcat.  Usage:
 
